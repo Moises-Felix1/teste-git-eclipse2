@@ -7,6 +7,7 @@ public class Testedois {
 		
 		System.out.println("----------------------");
 		System.out.println("TESTE INICIADO");
+		System.out.println("TESTANDO...");
 		System.out.println("----------------------");
 	}
 
